@@ -1,1 +1,9 @@
-{'aap_teams': [{'name': 'Alpha DevOps', 'organization': 'org-demo_alpha', 'description': 'Team for tenant demo_alpha'}]}
+{
+    "aap_teams": [
+        {
+            "description": "Team for tenant demo_alpha",
+            "name": "Alpha DevOps",
+            "organization": "org-demo_alpha"
+        }
+    ]
+}
