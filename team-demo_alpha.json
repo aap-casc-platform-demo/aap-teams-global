@@ -2,7 +2,7 @@
     "aap_teams": [
         {
             "description": "Team for tenant demo_alpha",
-            "name": "Alpha DevOps",
+            "name": "team-alpha",
             "organization": "org-demo_alpha"
         }
     ]
